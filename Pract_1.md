@@ -11,3 +11,15 @@ grep -i '[a-z]' passwd | sort
 cat /etc/protocols | awk '{print($2, $1)}' | sort -nr | head -5
 
 ![изображение](https://github.com/user-attachments/assets/66482b27-8486-4177-b8c9-832a202950dd)
+
+# Задание 3
+
+word = raw_input()
+lw = len(word)
+print("+" + "-"*lw + "+")
+print("|" + word + "|")
+print("+" + "-"*lw + "+")
+
+![изображение](https://github.com/user-attachments/assets/aa1a5426-8557-448b-9a0a-ed2c927f5c67)
+
+
