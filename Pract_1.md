@@ -61,6 +61,16 @@ if __name__ == "__main__":
 ![изображение](https://github.com/user-attachments/assets/73d6a939-d1eb-469c-bf58-642201891028)
 
 # Задание 5
+#!/bin/bash
+
+file=$1
+chmod 755 "./$file"
+sudo cp "$file" /usr/local/bin/
+echo "Программа '$file' сохранена в usr/local/bin/, права были выданы"
+
+# Задание 6
+
+
 
 
 
