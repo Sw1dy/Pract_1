@@ -72,24 +72,8 @@ echo "Программа '$file' сохранена в usr/local/bin/, прав�
 
 
 # Задание 6
-#!/bin/bash
-line=$(head -n 1 $1)
-extensiom="${1##*.}"
-if [[ "$extensiom" == "js" ]] || [[ "$extension" == "cpp" ]]; then
-        comm="${line:0:2}"
-        if [[ "$comm" == "//" ]]; then
-                echo "Comment is present"
-        else
-                echo "Comment is absent"
-        fi
-else
-        comm="${line:0:1}"
-        if [[ "$comm" == "#" ]]; then
-                echo "Comment is present"
-        else
-                echo "Comment is absent"
-        fi
-fi
+![изображение](https://github.com/user-attachments/assets/d66cc68a-13d6-47d6-a324-7232697c10bc)
+
  
 ![изображение](https://github.com/user-attachments/assets/27a9c16d-8c2e-48e4-9c22-df71e25ad257)
 
