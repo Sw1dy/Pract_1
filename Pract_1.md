@@ -68,6 +68,9 @@ chmod 755 "./$file"
 sudo cp "$file" /usr/local/bin/
 echo "Программа '$file' сохранена в usr/local/bin/, права были выданы"
 
+![изображение](https://github.com/user-attachments/assets/dbb07869-b7d9-4723-93d1-8e2054bf9a79)
+
+
 # Задание 6
 
 
