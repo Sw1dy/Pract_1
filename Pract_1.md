@@ -82,6 +82,9 @@ echo "Программа '$file' сохранена в usr/local/bin/, прав�
 # Задание 7
 ![изображение](https://github.com/user-attachments/assets/110ed8d5-3679-4ee8-ab1e-5f7c4db3cd20)
 
+![изображение](https://github.com/user-attachments/assets/274a61b2-46bb-4a8a-8874-312ed85c7770)
+
+
 ![изображение](https://github.com/user-attachments/assets/b3966c94-3c99-4882-bbf0-51b81d27692c)
 
 
